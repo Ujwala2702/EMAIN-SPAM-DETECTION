@@ -1,2 +1,2 @@
-# EMAIN-SPAM-DETECTION
+# EMAIL-SPAM-DETECTION
 Email Spam Detection using Machine Learning Algorithms
